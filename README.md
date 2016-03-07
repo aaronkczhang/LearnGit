@@ -19,4 +19,8 @@ java -jar target/github-commit-count-1.0.0-jar-with-dependencies.jar
 
 *  Sit back and watch the topology continually process messages based on the data in changelog.txt.
 
-add something
+
+add something from master
+
+* Add DBCP to pom.xml from release1
+
