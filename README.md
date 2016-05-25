@@ -6,6 +6,7 @@ Pre-requisites for running project:
 To run this topology in local mode:
 
 *  Compile the project source, producing a jar file.  Do this by running the following on the command-line:
+test
 
 ```
 mvn clean package
